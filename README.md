@@ -5,3 +5,7 @@ AHFMD introduces a unified detection framework that integrates:
 - LLM-based feature explanation
 - MITRE ATT&CK correlated threat classification
 
+Real-Time Process Surveillance
+- eBPF-based syscall monitoring
+- Detection of suspicious process behavior
+- Early identification of malicious activities
