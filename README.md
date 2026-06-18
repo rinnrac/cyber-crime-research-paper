@@ -14,3 +14,8 @@ Memory Forensics
 - Automated memory snapshot collection
 - Volatility-based artifact extraction
 - Detection of reflective DLL injection and memory-resident threats
+
+AI-Powered Threat Explanation
+- Fine-tuned Llama model
+- Human-readable security explanations
+- Improved analyst understanding and response
