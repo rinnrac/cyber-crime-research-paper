@@ -19,3 +19,8 @@ AI-Powered Threat Explanation
 - Fine-tuned Llama model
 - Human-readable security explanations
 - Improved analyst understanding and response
+
+AI-Powered Threat Explanation
+- Fine-tuned Llama model
+- Human-readable security explanations
+- Improved analyst understanding and response
