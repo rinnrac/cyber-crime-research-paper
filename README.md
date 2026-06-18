@@ -9,3 +9,8 @@ Real-Time Process Surveillance
 - eBPF-based syscall monitoring
 - Detection of suspicious process behavior
 - Early identification of malicious activities
+
+Memory Forensics
+- Automated memory snapshot collection
+- Volatility-based artifact extraction
+- Detection of reflective DLL injection and memory-resident threats
